@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "inser_sort",
+]
+
